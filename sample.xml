@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book>
+        <title lang="en">Learning XML</title>
+        <author>John Smith</author>
+        <year>2021</year>
+        <price>39.95</price>
+    </book>
+    <book>
+        <title lang="jp">XMLの基礎</title>
+        <author>山田 太郎</author>
+        <year>2022</year>
+        <price>45.00</price>
+    </book>
+</bookstore>
